@@ -1,4 +1,6 @@
-### Hi there 👋
+- 👋 Hi, I’m @MAES-Pyramids
+- 👀 I’m a MERN Stack web developer with an interest in Penetration Testing
+- 🌱 I’m currently learning about backend development with Node.js
 
 <!--
 **MAES-Pyramids/MAES-Pyramids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

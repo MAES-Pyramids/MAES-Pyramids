@@ -1,6 +1,6 @@
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
 
-<h1 align="center">Hi, Hi there, I'm Abo El-Seoud - aka MAES 👋</h1>
+<h1 align="center">Hi there, I'm Abo El-Seoud - aka MAES 👋</h1>
 <p align="center">
     <a href="https://twitter.com/Mohamed97007348"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
         <a href="https://t.me/Abo_El_Seoud"><img src="https://img.shields.io/badge/telegram-D14836?style=flat&logo=telegram&logoColor=white"/></a>

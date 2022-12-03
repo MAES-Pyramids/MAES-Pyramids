@@ -17,7 +17,7 @@
   
 ## I'm a Computer Science  Student  
 
-- 👨‍💻 I’m a MERN Stack web developer, currently working on  technologies like JavaScript, Node.js etc.
+- 👨‍💻 I’m a MERN Stack developer, currently working on technologies like JavaScript, Node.js etc.
 - 📚 I’m learning currently more about Frontend and Backend technologies 😅.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
  - 💬 Ask me in genral about Java Script and I'will try to help.

@@ -107,7 +107,7 @@ console.log(['🥚', '🐔', '🐥', '🐣'].sort())
 ---
  ### 🏆 Trophies 
 
-<p align="center"> <a href="https://github.com/MAES-Pyramids/"><img src="https://github-profile-trophy.vercel.app/?username=MAES-Pyramids" alt="Abo El-Seoud Trophies" /></a> </p>
+<p align="center"> <a href="https://github.com/MAES-Pyramids/"><img src="https://github-profile-trophy.vercel.app/?username=MAES-Pyramids&theme=monokai" alt="Abo El-Seoud Trophies" /></a> </p>
 
 
 <div  align="right" > 

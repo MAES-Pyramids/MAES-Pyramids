@@ -86,7 +86,7 @@
 
 ---
 
-##### Fun fact: I think I solved the world's oldest question but now we have a new problem cause the answer will depend on you now   (Which is a bigger problem)
+##### Fun fact: I think I solved the world's oldest question but  we have a new problem cause the answer will depend on you now  (Which is a bigger problem)
 
 <!-- wi*quL3fcV -->
 
@@ -97,7 +97,7 @@ console.log(['🥚', '🐔', '🐥', '🐣'].sort())
 // If you believe in GOD
 >>> [ '🐔', '🥚', '🐣', '🐥' ]
 
-// If you believe in Evolution
+// If you believe Evolution
 >>> [ '🥚', '🐣', '🐥', '🐔' ]
 ```
 

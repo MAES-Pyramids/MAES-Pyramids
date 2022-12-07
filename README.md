@@ -86,7 +86,7 @@
 
 ---
 
-##### Fun fact: I think I solved the world's oldest question but  we have a new problem cause the answer will depend on you now  (Which is a bigger problem)
+##### Fun fact: I think I solved the world's oldest question but sadly we are facing a bigger problem cause the answer will depend on you now 
 
 <!-- wi*quL3fcV -->
 

@@ -88,7 +88,7 @@
 
 ---
 
-##### Fun fact: I think I solved the world's oldest question but sadly we are facing a bigger problem cause the answer will depend on you now 
+##### Fun fact: Java-Script can help you solve the world's oldest question but sadly the answer will depend on you  😅😉
 
 <!-- wi*quL3fcV -->
 

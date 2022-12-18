@@ -13,7 +13,7 @@
  
 <div > 
   
-  <img src="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/profile-img.png" align="right" width="25%"/>
+  <img src="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/img%20sources/profile-img.png" align="right" width="25%"/>
   
 ## I'm a Computer Science  Student  
 

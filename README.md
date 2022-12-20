@@ -1,6 +1,11 @@
-<!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
+<div align="right">  <a  href="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/Abo%20El-Seoud%20CV.pdf" target="_blank"><img align="right" src="https://raw.githubusercontent.com/MAES-Pyramids/MAES-Pyramids/main/img%20sources/cv%20.png" alt="My CV" width="60" ></a> </div>
 
-<h1 align="center">Hi there, I'm Abo El-Seoud - aka MAES 👋</h1>
+    
+<h1 align="center">Hi there 👋, I'm Mohamed Abo El-Seoud - aka MAES  </h1> 
+
+
+
+
 <p align="center">
     <a href="https://twitter.com/Mohamed97007348"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
         <a href="https://t.me/Abo_El_Seoud"><img src="https://img.shields.io/badge/telegram-D14836?style=flat&logo=telegram&logoColor=white"/></a>
@@ -110,8 +115,9 @@ console.log(['🥚', '🐔', '🐥', '🐣'].sort())
 
 
 <div  align="right" > 
-
+       
 <!--<p>< Visitors Count </p>-->
-<br> ![VisitorCount](https://profile-counter.glitch.me/{MAES-Pyramids}/count.svg)     
+<br> ![VisitorCount](https://profile-counter.glitch.me/{MAES-Pyramids}/count.svg)         
 </div>
+
 

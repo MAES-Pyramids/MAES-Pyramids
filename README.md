@@ -34,6 +34,7 @@
 
 
  ---
+<!-- ![MAES's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MAES_Pyramids&range=last_7_days) -->
 
 ### Languages and Tools 🛠 
 

@@ -83,7 +83,7 @@
   <h2 align="center"> Github Statistics 📈 </h2>
   
   
-  <div align="center"> 
+<!--   <div align="center"> 
     
 <a href="https://github.com/MAES-Pyramids/">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MAES-Pyramids&show_icons=true&include_all_commits=true&count_private=true&theme=react&layout=compact&line_height=40" />
@@ -98,6 +98,24 @@
     </a>
 <a href="https://github.com/MAES-Pyramids/">
       <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MAES_Pyramids&layuout=compact&theme=react&line_height=19" />
+    </a>
+    
+  </div>  -->
+  
+<div align="center"> 
+    
+<a href="https://github.com/MAES-Pyramids/">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MAES-Pyramids&show_icons=true&include_all_commits=true&count_private=true&theme=react" />
+    </a>
+<a href="https://github.com/MAES-Pyramids/">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maes-pyramids&theme=react" alt="maes-pyramids" />
+    </a>
+<br>
+<a href="https://github.com/MAES-Pyramids/">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAES-Pyramids&layout=compact&theme=react"/>
+    </a>
+<a href="https://github.com/MAES-Pyramids/">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MAES_Pyramids&layuout=compact&theme=react&line_height=15" />
     </a>
     
   </div> 

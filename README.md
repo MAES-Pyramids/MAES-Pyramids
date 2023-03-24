@@ -84,16 +84,22 @@
   
   
   <div align="center"> 
-     <a href="https://github.com/MAES-Pyramids/">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MAES-Pyramids&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    
+<a href="https://github.com/MAES-Pyramids/">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MAES-Pyramids&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=25" />
     </a>
-    <a href="https://github.com/MAES-Pyramids/">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAES-Pyramids&theme=react&line_height=40&hide=css&layuout=compact"/>
+<a href="https://github.com/MAES-Pyramids/">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maes-pyramids&theme=react" alt="maes-pyramids" />
     </a>
-<!--     <a href="https://github.com/MAES-Pyramids/">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MAES_Pyramids&layuout=compact&theme=react" />
-    </a> -->
-</div>
+<a href="https://github.com/MAES-Pyramids/">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAES-Pyramids&theme=react&hide=css"/>
+    </a>
+<a href="https://github.com/MAES-Pyramids/">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MAES_Pyramids&layuout=compact&theme=react&line_height=30" />
+    </a>
+    
+  </div> 
+
   
 <br/>
 
@@ -125,5 +131,10 @@ console.log(['🥚', '🐔', '🐥', '🐣'].sort())
 <!--<p>< Visitors Count </p>-->
 <br> ![VisitorCount](https://profile-counter.glitch.me/{MAES-Pyramids}/count.svg)         
 </div>
+
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------  -->
+
+
 
 

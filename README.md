@@ -91,6 +91,7 @@
 <a href="https://github.com/MAES-Pyramids/">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maes-pyramids&theme=react" alt="maes-pyramids" />
     </a>
+<br>
 <a href="https://github.com/MAES-Pyramids/">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAES-Pyramids&layout=compact&theme=react"/>
     </a>

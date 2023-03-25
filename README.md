@@ -27,10 +27,8 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop Developing new ideas
 - 💬 Ask me in genral about Java Script and I'will try to help if i can.
 - ⚡ Fun fact: I love playing ping pong 🏓 so may be if you can 😉.
-
-  
+ 
   </div>
-  
 
 
  ---
@@ -75,6 +73,17 @@
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
   </div>
+
+<div align="center"> 
+    
+<a href="https://github.com/MAES-Pyramids/">
+      <img align="center" width="530px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAES-pyramids&theme=monokai" />
+    </a>
+<a href="https://github.com/MAES-Pyramids/">
+      <img align="center" width="260px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MAES-pyramids&theme=monokai" />
+    </a>
+ 
+</div> 
   
 ---
 

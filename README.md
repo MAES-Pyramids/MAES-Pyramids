@@ -94,11 +94,12 @@
     </a>
 <br>
 <a href="https://github.com/MAES-Pyramids/">
-      <img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=maes-pyramids&theme=monokai" alt="maes-pyramids" />
-    </a>    
-<a href="https://github.com/MAES-Pyramids/">
-      <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=MAES_Pyramids&layuout=compact&theme=monokai&layout=compact" />
+      <img align="center" width="433px" src="https://github-readme-stats.vercel.app/api/wakatime?username=MAES_Pyramids&layuout=compact&theme=monokai&layout=compact" />
     </a>
+<a href="https://github.com/MAES-Pyramids/">
+      <img align="center" width="363px" src="https://github-readme-streak-stats.herokuapp.com/?user=maes-pyramids&theme=monokai" alt="maes-pyramids" />
+    </a> 
+<br>
     
   </div> 
 

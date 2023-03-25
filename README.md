@@ -75,14 +75,12 @@
   </div>
 
 <div align="center"> 
-    
 <a href="https://github.com/MAES-Pyramids/">
       <img align="center" width="530px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAES-pyramids&theme=monokai" />
     </a>
 <a href="https://github.com/MAES-Pyramids/">
       <img align="center" width="260px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MAES-pyramids&theme=monokai" />
     </a>
- 
 </div> 
   
 ---

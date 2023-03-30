@@ -74,14 +74,7 @@
    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
   </div>
 
-<div align="center"> 
-<a href="https://github.com/MAES-Pyramids/">
-      <img align="center" width="530px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAES-pyramids&theme=monokai" />
-    </a>
-<a href="https://github.com/MAES-Pyramids/">
-      <img align="center" width="260px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MAES-pyramids&theme=monokai" />
-    </a>
-</div> 
+
   
 ---
 
@@ -133,7 +126,18 @@ console.log(['🥚', '🐔', '🐥', '🐣'].sort())
 ---
  ### 🏆 Trophies 
 
-<p align="center"> <a href="https://github.com/MAES-Pyramids/"><img src="https://github-profile-trophy.vercel.app/?username=MAES-Pyramids&theme=monokai" alt="Abo El-Seoud Trophies" /></a> </p>
+
+<div align="center"> 
+<a href="https://github.com/MAES-Pyramids/"><img src="https://github-profile-trophy.vercel.app/?username=MAES-Pyramids&theme=monokai" alt="Abo El-Seoud Trophies" /></a>
+    
+<a href="https://github.com/MAES-Pyramids/">
+      <img align="center" width="445px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAES-pyramids&theme=monokai" />
+    </a>
+<a href="https://github.com/MAES-Pyramids/">
+      <img align="center" width="215px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MAES-pyramids&theme=monokai" />
+    </a>
+    
+</div> 
 
 
 <div  align="right" > 

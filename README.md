@@ -17,31 +17,27 @@
   
  
 <div > 
-  
   <img src="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/img%20sources/profile-img.png" align="right" width="25%"/>
   
 ## I'm a Computer Science  Student  
 
 - 👨‍💻 I’m a MERN Stack developer, Currently my expertise lies in working with Node and React.
-- 📚 I am expanding my knowledge horizons by diving deeper into concepts as microservices😅.
+- 📚 I am expanding my knowledge Currently by diving into concepts as microservices 😅.
+- 🌱  I am passionate about open-source contributions, seeks collaborations for impact.   
 - 💪🏼 My future aspirations include learning new emerging technologies | Never stop innovation.
-- 💬 Ask me in genral about Java Script and I'will try to help if i can.
+- 💬 Ask me in genral about Java Script or Node.js and I'will try to help if I can.
 - ⚡ Fun fact: I love playing ping pong 🏓 so may be if you can 😉.
- 
+    
   </div>
+
 
 
  ---
 
+
 ### Languages and Tools 🛠 
 
-<!-- 
-  <div >   
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-  ![laravel](https://img.shields.io/badge/-Laravel-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-  ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+<!--   <div >   
    
   ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
   ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -52,6 +48,13 @@
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![VSCode](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+    
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+  ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+  ![laravel](https://img.shields.io/badge/-Laravel-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+  ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+    
   </div> -->
   
    <div align="center">

@@ -20,11 +20,10 @@
   <img src="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/img%20sources/profile-img.png" align="right" width="25%"/>
   
 ## I'm a Computer Science  Student  
-
 - 👨‍💻 I’m a MERN Stack developer, Currently my expertise lies in working with Node and React.
 - 📚 I am expanding my knowledge Currently by diving into concepts as microservices 😅.
-- 🌱  I am passionate about open-source contributions, seeks collaborations for impact.   
 - 💪🏼 My future aspirations include learning new emerging technologies | Never stop innovation.
+- 🌱  I am passionate about open-source contributions, seeks collaborations for 👍 impact.   
 - 💬 Ask me in genral about Java Script or Node.js and I'will try to help if I can.
 - ⚡ Fun fact: I love playing ping pong 🏓 so may be if you can 😉.
     

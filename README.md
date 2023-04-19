@@ -22,8 +22,8 @@
   
 ## I'm a Computer Science  Student  
 
-- 👨‍💻 I’m a MERN Stack developer, Currently my expertise lies in working with Node and React .
-- 📚 I am expanding my knowledge horizons by delving deeper into concepts as microservices😅.
+- 👨‍💻 I’m a MERN Stack developer, Currently my expertise lies in working with Node and React.
+- 📚 I am expanding my knowledge horizons by diving deeper into concepts as microservices😅.
 - 💪🏼 My future aspirations include learning new emerging technologies | Never stop innovation.
 - 💬 Ask me in genral about Java Script and I'will try to help if i can.
 - ⚡ Fun fact: I love playing ping pong 🏓 so may be if you can 😉.

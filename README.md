@@ -1,4 +1,4 @@
-<div align="right">  <a  href="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/Abo%20El-Seoud%20CV.pdf" target="_blank"><img align="right" src="https://raw.githubusercontent.com/MAES-Pyramids/MAES-Pyramids/main/img%20sources/cv%20.png" alt="My CV" width="70" ></a> </div>
+<a href="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/Abo%20El-Seoud%20CV.pdf" target="_blank"><img align="right" src="https://raw.githubusercontent.com/MAES-Pyramids/MAES-Pyramids/main/img%20sources/cv%20.png" alt="My CV" width="70" ></a>
 
 [![wakatime](https://wakatime.com/badge/user/a6c324a3-a241-4b2b-b691-172f84db107d.svg)](https://wakatime.com/@a6c324a3-a241-4b2b-b691-172f84db107d)
 

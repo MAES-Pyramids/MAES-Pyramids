@@ -1,9 +1,8 @@
-<div align="right">  <a  href="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/Abo%20El-Seoud%20CV.pdf" target="_blank"><img align="right" src="https://raw.githubusercontent.com/MAES-Pyramids/MAES-Pyramids/main/img%20sources/cv%20.png" alt="My CV" width="60" ></a> </div>
+<div align="right">  <a  href="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/Abo%20El-Seoud%20CV.pdf" target="_blank"><img align="right" src="https://raw.githubusercontent.com/MAES-Pyramids/MAES-Pyramids/main/img%20sources/cv%20.png" alt="My CV" width="70" ></a> </div>
 
-    
-<h1 align="center">Hi there 👋, I'm Mohamed Abo El-Seoud - aka MAES  </h1> 
+[![wakatime](https://wakatime.com/badge/user/a6c324a3-a241-4b2b-b691-172f84db107d.svg)](https://wakatime.com/@a6c324a3-a241-4b2b-b691-172f84db107d)
 
-
+<h1 align="center">Hi there 👋, I'm Mohamed Abo El-Seoud - aka MAES  </h1>  
 
 
 <p align="center">
@@ -80,28 +79,22 @@
 
   <h2 align="center"> Github Statistics 📈 </h2>
   
- 
-  
 <div align="center"> 
-    
 <a href="https://github.com/MAES-Pyramids/">
-      <img align="center" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MAES-Pyramids&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&line_height=20&card_width=100px" />
-    </a>
+  <img align="center" width="415px"  src="https://github-readme-streak-stats.herokuapp.com/?user=maes-pyramids&theme=monokai" alt="maes-pyramids" />
+    </a>    
 <a href="https://github.com/MAES-Pyramids/">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAES-Pyramids&layout=compact&theme=monokai"/>
     </a>
 <br>
 <a href="https://github.com/MAES-Pyramids/">
-      <img align="center" width="380px"  src="https://github-readme-stats.vercel.app/api/wakatime?username=MAES_Pyramids&langs_count=10&theme=monokai&layout=compact" />
+      <img align="center" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MAES-Pyramids&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&line_height=25&card_width=100px" />
     </a>
-<a href="https://github.com/MAES-Pyramids/">
-      <img align="center" width="415px"  src="https://github-readme-streak-stats.herokuapp.com/?user=maes-pyramids&theme=monokai" alt="maes-pyramids" />
-    </a> 
 <br>
-    
+<!-- <a href="https://github.com/MAES-Pyramids/">
+      <img align="center" width="380px"  src="https://github-readme-stats.vercel.app/api/wakatime?username=MAES_Pyramids&langs_count=10&theme=monokai&layout=compact" />
+    </a> -->
   </div> 
-
-  
 <br/>
 
 ---

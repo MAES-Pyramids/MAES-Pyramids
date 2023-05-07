@@ -88,7 +88,7 @@
     </a>
 <br>
 <a href="https://github.com/MAES-Pyramids/">
-      <img align="center" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MAES-Pyramids&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&line_height=25&card_width=100px" />
+      <img align="center" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MAES-Pyramids&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&line_height=22&card_width=100px" />
     </a>
 <br>
 <!-- <a href="https://github.com/MAES-Pyramids/">

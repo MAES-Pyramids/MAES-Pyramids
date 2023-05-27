@@ -19,7 +19,7 @@
   <img src="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/img%20sources/profile-img.png" align="right" width="25%"/>
   
 ## I'm a Computer Science  Student  
-- 👨‍💻 I’m a MERN Stack developer, Currently my expertise lies in working with Node and React.
+- 👨‍💻 I’m a Back-End developer, Currently my expertise lies in working with Laravel and Node.
 - 📚 I am expanding my knowledge Currently by diving into concepts as microservices 😅.
 - 💪🏼 My future aspirations include learning new emerging technologies | Never stop innovation.
 - 🌱  I am passionate about open-source contributions, seeks collaborations for 👍 impact.   

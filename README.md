@@ -90,12 +90,14 @@
 <a href="https://github.com/MAES-Pyramids/">
       <img align="center" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MAES-Pyramids&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&line_height=22&card_width=100px" />
     </a>
-<br>
-<!-- <a href="https://github.com/MAES-Pyramids/">
-      <img align="center" width="380px"  src="https://github-readme-stats.vercel.app/api/wakatime?username=MAES_Pyramids&langs_count=10&theme=monokai&layout=compact" />
-    </a> -->
   </div> 
 <br/>
+
+<div align="center"> 
+<a href="https://github.com/MAES-Pyramids/">
+      <img align="center" width="500px"src="https://github-readme-stats.vercel.app/api/wakatime?username=MAES&langs_count=10&theme=monokai&layout=compact" />
+    </a>
+  </div> 
 
 ---
 

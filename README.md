@@ -101,20 +101,25 @@
 
 ---
 
-##### Fun fact: Java-Script can help you solve the world's oldest question but sadly the answer will depend on you  😅😉
+##### Fun fact: Java-Script can help you solve the world's oldest question but sadly the answer depend on how much you belive in JS 😅😉
 
 <!-- wi*quL3fcV -->
 
 ```javascript
-// Which came first: the chicken or the egg?
+// Drumroll, please! Which came first: the chicken or the egg?
 console.log(['🥚', '🐔', '🐥', '🐣'].sort())
 
-// If you believe in GOD
->>> [ '🐔', '🥚', '🐣', '🐥' ]
+// And the JavaScript verdict is...
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
 
-// If you believe Evolution
->>> [ '🥚', '🐣', '🐥', '🐔' ]
 ```
+
+<div align="center">
+  <p style="font-size: 12px;">
+    So it seems like JavaScript has a sense of humor too! So, it's official: according to the language of code, the chicken wins the race to existence. Who knew programming could crack such eggs-citing debates?
+  </p>
+</div>
+
 
 ---
  ### 🏆 Trophies 

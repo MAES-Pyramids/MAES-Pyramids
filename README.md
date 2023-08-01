@@ -20,10 +20,10 @@
   
 ## I'm a Computer Science  Student  
 - 👨‍💻 I’m a Back-End developer, Currently my expertise lies in working with Laravel and Node.
-- 📚 I am expanding my knowledge Currently by diving into concepts as microservices 😅.
+- 📚 I am expanding my knowledge Currently by diving into concepts such as microservices 😅.
 - 💪🏼 My future aspirations include learning new emerging technologies | Never stop innovation.
-- 🌱  I am passionate about open-source contributions, seeks collaborations for 👍 impact.   
-- 💬 Ask me in genral about Java Script or Node.js and I'will try to help if I can.
+- 🌱  I am passionate about open-source contributions, and seek collaborations for 👍 impact.   
+- 💬 Ask me in general about Java Script or Node.js and I will try to help if I can.
 - ⚡ Fun fact: I love playing ping pong 🏓 so may be if you can 😉.
     
   </div>
@@ -101,7 +101,7 @@
 
 ---
 
-##### Fun fact: Java-Script can help you solve the world's oldest question but sadly the answer depend on how much you belive in JS 😅😉
+##### Fun fact: Java-Script can help you solve the world's oldest question but sadly the answer depends on how much you believe in JS 😅😉
 
 <!-- wi*quL3fcV -->
 
@@ -116,7 +116,7 @@ console.log(['🥚', '🐔', '🐥', '🐣'].sort())
 
 <div align="center">
   <p style="font-size: 12px;">
-    So it seems like JavaScript has a sense of humor too! So, it's official: according to the language of code, the chicken wins the race to existence. Who knew programming could crack such eggs-citing debates?
+    So JavaScript has a sense of humor too, and from now it's officially confirmed that the chicken wins the race to existence. seems like programming can solve these egg-citing debates. 😅😅
   </p>
 </div>
 
@@ -140,13 +140,5 @@ console.log(['🥚', '🐔', '🐥', '🐣'].sort())
 
 <div  align="right" > 
        
-<!--<p>< Visitors Count </p>-->
 <br> ![VisitorCount](https://profile-counter.glitch.me/{MAES-Pyramids}/count.svg)         
 </div>
-
-
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------  -->
-
-
-
-

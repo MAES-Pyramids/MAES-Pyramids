@@ -1,9 +1,8 @@
-<div align="right">  <a  href="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/Abo%20El-Seoud%20CV.pdf" target="_blank"><img align="right" src="https://raw.githubusercontent.com/MAES-Pyramids/MAES-Pyramids/main/img%20sources/cv%20.png" alt="My CV" width="60" ></a> </div>
+<a href="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/Abo%20El-Seoud%20CV.pdf" target="_blank"><img align="right" src="https://raw.githubusercontent.com/MAES-Pyramids/MAES-Pyramids/main/img%20sources/cv%20.png" alt="My CV" width="70" ></a>
 
-    
-<h1 align="center">Hi there 👋, I'm Mohamed Abo El-Seoud - aka MAES  </h1> 
+[![wakatime](https://wakatime.com/badge/user/a6c324a3-a241-4b2b-b691-172f84db107d.svg)](https://wakatime.com/@a6c324a3-a241-4b2b-b691-172f84db107d)
 
-
+<h1 align="center">Hi there 👋, I'm Mohamed Abo El-Seoud - aka MAES  </h1>  
 
 
 <p align="center">
@@ -17,34 +16,26 @@
   
  
 <div > 
-  
   <img src="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/img%20sources/profile-img.png" align="right" width="25%"/>
   
 ## I'm a Computer Science  Student  
-
-- 👨‍💻 I’m a MERN Stack developer, currently working with technologies as React, Node.
-- 📚 I’m learning more about Frontend and Backend technologies like mongodb 😅.
-- 💪🏼 Future Goals: Learn more technologies - Never stop Developing new ideas
-- 💬 Ask me in genral about Java Script and I'will try to help if i can.
+- 👨‍💻 I’m a Back-End developer, Currently my expertise lies in working with Laravel and Node.
+- 📚 I am expanding my knowledge Currently by diving into concepts such as microservices 😅.
+- 💪🏼 My future aspirations include learning new emerging technologies | Never stop innovation.
+- 🌱  I am passionate about open-source contributions, and seek collaborations for 👍 impact.   
+- 💬 Ask me in general about Java Script or Node.js and I will try to help if I can.
 - ⚡ Fun fact: I love playing ping pong 🏓 so may be if you can 😉.
-
-  
+    
   </div>
-  
+
 
 
  ---
 
+
 ### Languages and Tools 🛠 
 
-<!-- 
-  <div >
-    
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-  ![laravel](https://img.shields.io/badge/-Laravel-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-  ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+<!--   <div >   
    
   ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
   ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -55,6 +46,12 @@
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![VSCode](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+    
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+  ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+  ![laravel](https://img.shields.io/badge/-Laravel-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+  ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
     
   </div> -->
   
@@ -82,44 +79,66 @@
 
   <h2 align="center"> Github Statistics 📈 </h2>
   
-  <div align="center"> 
-     <a href="https://github.com/MAES-Pyramids/">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MAES-Pyramids&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+<div align="center"> 
+<a href="https://github.com/MAES-Pyramids/">
+  <img align="center" width="415px"  src="https://github-readme-streak-stats.herokuapp.com/?user=maes-pyramids&theme=monokai" alt="maes-pyramids" />
+    </a>    
+<a href="https://github.com/MAES-Pyramids/">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAES-Pyramids&layout=compact&theme=monokai"/>
     </a>
-    <a href="https://github.com/MAES-Pyramids/">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAES-Pyramids&theme=react&line_height=40&hide=css"/>
+<br>
+<a href="https://github.com/MAES-Pyramids/">
+      <img align="center" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MAES-Pyramids&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&line_height=22&card_width=100px" />
     </a>
-</div>
-  
+  </div> 
 <br/>
+
+<div align="center"> 
+<a href="https://github.com/MAES-Pyramids/">
+      <img align="center" width="500px"src="https://github-readme-stats.vercel.app/api/wakatime?username=MAES&langs_count=10&theme=monokai&layout=compact" />
+    </a>
+  </div> 
 
 ---
 
-##### Fun fact: Java-Script can help you solve the world's oldest question but sadly the answer will depend on you  😅😉
+##### Fun fact: Java-Script can help you solve the world's oldest question but sadly the answer depends on how much you believe in JS 😅😉
 
 <!-- wi*quL3fcV -->
 
 ```javascript
-// Which came first: the chicken or the egg?
+// Drumroll, please! Which came first: the chicken or the egg?
 console.log(['🥚', '🐔', '🐥', '🐣'].sort())
 
-// If you believe in GOD
->>> [ '🐔', '🥚', '🐣', '🐥' ]
+// And the JavaScript verdict is...
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
 
-// If you believe Evolution
->>> [ '🥚', '🐣', '🐥', '🐔' ]
 ```
+
+<div align="center">
+  <p style="font-size: 12px;">
+    So JavaScript has a sense of humor too, and from now it's officially confirmed that the chicken wins the race to existence. seems like programming can solve these egg-citing debates. 😅😅
+  </p>
+</div>
+
 
 ---
  ### 🏆 Trophies 
 
-<p align="center"> <a href="https://github.com/MAES-Pyramids/"><img src="https://github-profile-trophy.vercel.app/?username=MAES-Pyramids&theme=monokai" alt="Abo El-Seoud Trophies" /></a> </p>
+
+<div align="center"> 
+<a href="https://github.com/MAES-Pyramids/"><img src="https://github-profile-trophy.vercel.app/?username=MAES-Pyramids&theme=monokai" alt="Abo El-Seoud Trophies" /></a>
+    
+<a href="https://github.com/MAES-Pyramids/">
+      <img align="center" width="445px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAES-pyramids&theme=monokai" />
+    </a>
+<a href="https://github.com/MAES-Pyramids/">
+      <img align="center" width="215px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MAES-pyramids&theme=monokai" />
+    </a>
+    
+</div> 
 
 
 <div  align="right" > 
        
-<!--<p>< Visitors Count </p>-->
 <br> ![VisitorCount](https://profile-counter.glitch.me/{MAES-Pyramids}/count.svg)         
 </div>
-
-

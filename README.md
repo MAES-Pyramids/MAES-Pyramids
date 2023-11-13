@@ -8,7 +8,7 @@
 <p align="center">
     <a href="https://twitter.com/Mohamed97007348"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
         <a href="https://t.me/Abo_El_Seoud"><img src="https://img.shields.io/badge/telegram-D14836?style=flat&logo=telegram&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/mohamed-abo-el-seoud-319452205/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/mohamed-abo-el-seoud/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.instagram.com/abo_el_seoud/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
     <br/>
      <a href="mailto:mohamed.11021@stemgharbiya.moe.edu.eg"><img alt="Email" src="https://img.shields.io/badge/Email-mohamed.11021@stemgharbiya.moe.edu.eg-blue?style=flat-square&logo=gmail"></a><br> 
@@ -21,8 +21,8 @@
 ## I'm a Computer Science  Student  
 - 👨‍💻 I’m a Back-End developer, Currently my expertise lies in working with Laravel and Node.
 - 📚 I am expanding my knowledge Currently by diving into concepts such as microservices 😅.
-- 💪🏼 My future aspirations include learning new emerging technologies | Never stop innovation.
-- 🌱  I am passionate about open-source contributions, and seek collaborations for 👍 impact.   
+- 💪🏼 My future aspirations include learning new emerging technologies | Never stopping innovation.
+- 🌱  I am passionate about open-source contributions and seek collaborations for 👍 impact.   
 - 💬 Ask me in general about Java Script or Node.js and I will try to help if I can.
 - ⚡ Fun fact: I love playing ping pong 🏓 so may be if you can 😉.
     
@@ -103,8 +103,6 @@
 
 ##### Fun fact: Java-Script can help you solve the world's oldest question but sadly the answer depends on how much you believe in JS 😅😉
 
-<!-- wi*quL3fcV -->
-
 ```javascript
 // Drumroll, please! Which came first: the chicken or the egg?
 console.log(['🥚', '🐔', '🐥', '🐣'].sort())
@@ -116,7 +114,7 @@ console.log(['🥚', '🐔', '🐥', '🐣'].sort())
 
 <div align="center">
   <p style="font-size: 12px;">
-    So JavaScript has a sense of humor too, and from now it's officially confirmed that the chicken wins the race to existence. seems like programming can solve these egg-citing debates. 😅😅
+    So if u believe in JavaScript then from now it's officially confirmed that the chicken wins the race to existence. seems like programming can solve these egg-citing debates. 😅😅
   </p>
 </div>
 

@@ -21,7 +21,7 @@
 ## I'm a Computer Science  Student  
 - 👨‍💻 I’m a Back-End developer, Currently my expertise lies in working with Laravel and Node.
 - 📚 I am expanding my knowledge Currently by diving into concepts such as microservices 😅.
-- 💪🏼 My future aspirations include learning new emerging technologies | Never stopping innovation.
+- 💪🏼 My future aspirations include learning new emerging technologies | Never stop innovation.
 - 🌱  I am passionate about open-source contributions and seek collaborations for 👍 impact.   
 - 💬 Ask me in general about Java Script or Node.js and I will try to help if I can.
 - ⚡ Fun fact: I love playing ping pong 🏓 so may be if you can 😉.

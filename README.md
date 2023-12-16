@@ -19,11 +19,11 @@
   <img src="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/img%20sources/profile-img.png" align="right" width="25%"/>
   
 ## I'm a Computer Science  Student  
-- 👨‍💻 I’m a Back-End developer,  using frameworks such as nest and laravel.
+- 👨‍💻 I’m a Back-End developer, using frameworks like Nest.js and Laravel.
 - 📚 I am expanding my knowledge by diving into architecture & scalability patterns 😅.
 - 💪🏼 My future aspirations include learning new emerging technologies | Never stop innovating.
 - 🌱  I am passionate about open-source contributions and seek collaborations for 👍 impact.   
-- 💬 Ask me in general about development & deployment and I will try to help if I can.
+- 💬 Ask me about web development & deployment and I will try to help if I can.
 - ⚡ Fun fact: I love playing ping pong 🏓 so may be if you can 😉.
     
   </div>

@@ -20,7 +20,7 @@
   
 ## I'm a Computer Science  Student  
 - 👨‍💻 I’m a Back-End developer, using frameworks like Nest.js and Laravel.
-- 📚 I am expanding my knowledge by diving into architecture & scalability patterns 😅.
+- 📚 Currently expanding my knowledge into architecture & scalability patterns 😅.
 - 💪🏼 My future aspirations include learning new emerging technologies | Never stop innovating.
 - 🌱  I am passionate about open-source contributions and seek collaborations for 👍 impact.   
 - 💬 Ask me about web development & deployment and I will try to help if I can.

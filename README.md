@@ -105,7 +105,8 @@ console.log(['🥚', '🐔', '🐥', '🐣'].sort())
 
 <div align="center">
   <p style="font-size: 12px;">
-    So if u believe in JavaScript then from now it's officially confirmed that the chicken wins the race to existence. seems like programming can solve these egg-citing debates. 😅😅
+    So if u believe in JavaScript (V8 engine to be precise) then from now it's officially confirmed that the chicken wins the race to existence.😅😅 <br>
+      👉 programming can also solve these egg-citing debates. 👈 
   </p>
 </div>
 

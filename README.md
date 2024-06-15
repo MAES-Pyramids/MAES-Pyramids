@@ -18,8 +18,9 @@
 <div > 
   <img src="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/img%20sources/profile-img.png" align="right" width="25%"/>
   
-## I'm a Computer Science  Student  
-- 👨‍💻 I’m a Back-End developer, using frameworks like Nest.js and Laravel.
+<!-- ## I'm a Computer Science  Student  -->
+## I'm a Abo El-Seoud 
+- 👨‍💻 Back-End developer, using frameworks like Nest.js and Laravel.
 - 📚 Currently expanding my knowledge into architecture & scalability patterns 😅.
 - 💪🏼 My future aspirations include learning new emerging technologies | Never stop innovating.
 - 🌱  I am passionate about open-source contributions and seek collaborations for 👍 impact.   

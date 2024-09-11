@@ -1,4 +1,4 @@
-<a href="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/Abo%20El-Seoud%20CV.pdf" target="_blank"><img align="left" src="https://raw.githubusercontent.com/MAES-Pyramids/MAES-Pyramids/main/img%20sources/cv%20.png" alt="My CV" width="70" ></a>
+<a href="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/Abo%20El-Seoud%20CV.pdf" target="_blank"><img align="right" src="https://raw.githubusercontent.com/MAES-Pyramids/MAES-Pyramids/main/img%20sources/cv%20.png" alt="My CV" width="70" ></a>
 
 [![wakatime](https://wakatime.com/badge/user/a6c324a3-a241-4b2b-b691-172f84db107d.svg)](https://wakatime.com/@a6c324a3-a241-4b2b-b691-172f84db107d)
 
@@ -16,7 +16,7 @@
   
  
 <div > 
-  <img src="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/img%20sources/profile-img.png" align="left" width="30%"/>
+  <img src="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/img%20sources/profile-img.png" align="right" width="30%"/>
   
 <!-- ## I'm a Computer Science  Student  -->
 ## I'm a Abo El-Seoud 

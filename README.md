@@ -79,7 +79,7 @@
     <a href="https://github.com/MAES-Pyramids/">
       <img 
         align="center" 
-        width="80%"  
+        width="78%"  
         src="https://github-readme-activity-graph.vercel.app/graph?username=maes-pyramids&theme=monokai&area=true&custom_title=Contribution%20Graph&bg_color=272822&color=f8f8f2&line=a6e22e&point=f92672&area_color=66d9ef" 
         alt="Contribution Graph" 
       />
@@ -87,7 +87,7 @@
   </div>
 
   <!-- Streak Stats and Top Languages -->
-  <p align="center">
+  <p align="center"  style="margin: 20px 0;">
     <a href="https://github.com/MAES-Pyramids/">
       <img align="center" width="415px" src="https://github-readme-streak-stats.herokuapp.com/?user=maes-pyramids&theme=monokai" alt="Streak Stats" />
     </a>

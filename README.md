@@ -71,35 +71,57 @@
 
 <br/>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
+<h2 align="center">Github Statistics 📈</h2>
 
+<div align="center">
+  <!-- Contribution Graph -->
+  <div style="margin: 20px 0;">
+    <a href="https://github.com/MAES-Pyramids/">
+      <img 
+        align="center" 
+        width="80%"  
+        src="https://github-readme-activity-graph.vercel.app/graph?username=maes-pyramids&theme=monokai&area=true&custom_title=Contribution%20Graph&bg_color=272822&color=f8f8f2&line=a6e22e&point=f92672&area_color=66d9ef" 
+        alt="Contribution Graph" 
+      />
+    </a>  
+  </div>
 
-<div align="center"> 
-
-<a href="https://github.com/MAES-Pyramids/">
-  <img align="center" width="80%"  src="https://github-readme-activity-graph.vercel.app/graph?username=maes-pyramids&theme=monokai&area=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" alt="maes-pyramids" />
-    </a>    
-<br>
-
-<a href="https://github.com/MAES-Pyramids/">
-  <img align="center" width="415px"  src="https://github-readme-streak-stats.herokuapp.com/?user=maes-pyramids&theme=monokai" alt="maes-pyramids" />
-    </a>    
-    
-<a href="https://github.com/MAES-Pyramids/">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAES-Pyramids&layout=compact&theme=monokai"/>
+  <!-- Streak Stats and Top Languages -->
+  <p align="center">
+    <a href="https://github.com/MAES-Pyramids/">
+      <img align="center" width="415px" src="https://github-readme-streak-stats.herokuapp.com/?user=maes-pyramids&theme=monokai" alt="Streak Stats" />
     </a>
-<br>
-<a href="https://github.com/MAES-Pyramids/">
-      <img align="center" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MAES-Pyramids&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&line_height=22&card_width=100px" />
+    <a href="https://github.com/MAES-Pyramids/">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAES-Pyramids&layout=compact&theme=monokai" alt="Top Languages" />
     </a>
-  </div> 
-<br/>
+  </p>
 
-<div align="center"> 
-<a href="https://github.com/MAES-Pyramids/">
-      <img align="center" width="500px"src="https://github-readme-stats.vercel.app/api/wakatime?username=MAES&langs_count=10&theme=monokai&layout=compact" />
-    </a>
-  </div> 
+  <!-- General Stats -->
+  <div>
+  <a href="https://github.com/MAES-Pyramids/">
+    <img 
+      align="center" 
+      width="500px" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=MAES-Pyramids&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&line_height=22" 
+      alt="General Stats" 
+    />
+  </a>
+</div>
+
+  <!-- Wakatime Stats -->
+<div>
+  <a href="https://github.com/MAES-Pyramids/">
+    <img 
+      align="center" 
+      width="500px" 
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=MAES&langs_count=10&theme=monokai&layout=compact" 
+      alt="Wakatime Stats" 
+    />
+  </a>
+</div>
+
+</div>
+
 
 ---
 

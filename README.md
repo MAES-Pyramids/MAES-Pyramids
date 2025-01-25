@@ -87,7 +87,7 @@
   </div>
 
   <!-- Streak Stats and Top Languages -->
-  <p align="center"  style="margin: 20px 0;">
+  <p align="center"  >
     <a href="https://github.com/MAES-Pyramids/">
       <img align="center" width="415px" src="https://github-readme-streak-stats.herokuapp.com/?user=maes-pyramids&theme=monokai" alt="Streak Stats" />
     </a>

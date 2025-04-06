@@ -128,7 +128,7 @@
 ##### Fun fact: Java-Script can help you solve the world's oldest question but sadly the answer depends on how much you believe in JS 😅😉
 
 ```javascript
-// Drumroll, please! Which came first: the chicken or the egg?
+// Which came first: the chicken or the egg?
 console.log(['🥚', '🐔', '🐥', '🐣'].sort())
 
 // And the JavaScript verdict is...
@@ -138,8 +138,8 @@ console.log(['🥚', '🐔', '🐥', '🐣'].sort())
 
 <div align="center">
   <p style="font-size: 12px;">
-    So if u believe in JavaScript (V8 engine to be precise) then from now it's officially confirmed that the chicken wins the race to existence.😅😅 <br>
-      👉 programming can also solve these egg-citing debates. 👈 
+    So if u believe in JavaScript (V8 engine to be precise) then from now it's officially confirmed that the chicken wins the race to existence.👉👈 <br>
+       
   </p>
 </div>
 

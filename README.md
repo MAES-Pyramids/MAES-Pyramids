@@ -20,7 +20,7 @@
   
 <!-- ## I'm a Computer Science  Student  -->
 ## I'm a Abo El-Seoud 
-- 👨‍💻 FullStack developer, using frameworks like Nest.js and Next.js.
+- 👨‍💻 Full Stack Developer, using frameworks like Nest.js and Next.js.
 - 📚 Currently expanding my knowledge into architecture & scalability patterns 😅.
 - 💪🏼 My future aspirations include learning new emerging technologies | Never stop innovating.
 - 🌱  I am passionate about open-source contributions and seek collaborations for 👍 impact.   

@@ -22,9 +22,9 @@
 ## I'm a Abo El-Seoud 
 - 👨‍💻 Full Stack Developer, using frameworks like Nest.js and Next.js.
 - 📚 Currently expanding my knowledge into architecture & scalability patterns 😅.
-- 💪🏼 My future aspirations include learning new emerging technologies | Never stop innovating.
-- 🌱  I am passionate about open-source contributions and seek collaborations for 👍 impact.   
-- 💬 Ask me about web development & devops and I will try to help if I can.
+- 💪🏼 My future aspirations include learning new technologies | Never stop innovating.
+- 🌱  I am passionate about open-source contributions and seek collaborations for impact.   
+- 💬 Ask me about web development & devops, and I will try to help if possible.
 - ⚡ Fun fact: I love playing ping pong 🏓 so may be if you can 😉.
     
   </div>

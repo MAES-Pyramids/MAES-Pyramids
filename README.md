@@ -166,7 +166,16 @@ console.log(['🥚', '🐔', '🐥', '🐣'].sort())
 
 <div  align="right" > 
        
-<br> ![VisitorCount](https://profile-counter.glitch.me/{MAES-Pyramids}/count.svg)         
+<br> 
+
+<!-- 
+
+![VisitorCount](https://profile-counter.glitch.me/{MAES-Pyramids}/count.svg)     
+
+-->
+
+![VisitorCount](https://visitor-badge.laobi.icu/badge?page_id=maes-pyramids.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)         
+
 </div>
 
 

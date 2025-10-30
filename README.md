@@ -24,8 +24,8 @@
 - 📚 Currently expanding my knowledge into architecture & scalability patterns 😅.
 - 💪🏼 My future aspirations include learning new technologies | Never stop innovating.
 - 🌱  I am passionate about open-source contributions and seeking impact.   
-- 💬 Ask me about web development & devops, and I will try to help if possible.
-- ⚡ Fun fact: I love playing ping pong 🏓 so may be if you can 😉.
+- 💬 Ask me about web development, and I will try to help if possible.
+
     
   </div>
 
@@ -122,29 +122,7 @@
 
 </div>
 
-<!-- 
 
----
-
-##### Fun fact: Java-Script can help you solve the world's oldest question but sadly the answer depends on how much you believe in JS 😅😉
-
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐔', '🐥', '🐣'].sort())
-
-// And the JavaScript verdict is...
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-
-```
-
-<div align="center">
-  <p style="font-size: 12px;">
-    So if u believe in JavaScript (V8 engine to be precise) then from now it's officially confirmed that the chicken wins the race to existence.👉👈 <br>
-       
-  </p>
-</div>
-
--->
 
 
 ---
@@ -168,11 +146,7 @@ console.log(['🥚', '🐔', '🐥', '🐣'].sort())
        
 <br> 
 
-<!-- 
 
-![VisitorCount](https://profile-counter.glitch.me/{MAES-Pyramids}/count.svg)     
-
--->
 
 ![VisitorCount](https://visitor-badge.laobi.icu/badge?page_id=maes-pyramids.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)         
 

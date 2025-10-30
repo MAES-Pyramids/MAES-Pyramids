@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/mohamed-abo-el-seoud/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.instagram.com/abo_el_seoud/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
     <br/>
-     <a href="mailto:mohamed.11021@stemgharbiya.moe.edu.eg"><img alt="Email" src="https://img.shields.io/badge/Email-mohamed.11021@stemgharbiya.moe.edu.eg-blue?style=flat-square&logo=gmail"></a><br> 
+     <a href="mailto:mohamedaboelseoudatia@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mohamed.11021@stemgharbiya.moe.edu.eg-blue?style=flat-square&logo=gmail"></a><br> 
   </p>
   
  

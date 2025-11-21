@@ -16,15 +16,18 @@
   
  
 <div > 
-  <img src="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/img%20sources/profile-img.png" align="right" width="30%"/>
+  <img src="https://github.com/MAES-Pyramids/MAES-Pyramids/blob/main/img%20sources/profile-img.png" align="right" width="25%"/>
   
 <!-- ## I'm a Computer Science  Student  -->
+
 ## I'm a Abo El-Seoud 
 - 👨‍💻 Full Stack Developer, using frameworks like Nest.js and Next.js.
-- 📚 Currently expanding my knowledge into architecture & scalability patterns 😅.
+  
+- 📚 Currently expanding my knowledge into architecture & scalability patterns.
 - 💪🏼 My future aspirations include learning new technologies | Never stop innovating.
 - 🌱  I am passionate about open-source contributions and seeking impact.   
-- 💬 Ask me about web development, and I will try to help if possible.
+
+  
 
     
   </div>

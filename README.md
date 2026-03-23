@@ -21,11 +21,10 @@
 <!-- ## I'm a Computer Science  Student  -->
 
 ## I'm a Abo El-Seoud 
-- 👨‍💻 Full Stack Developer, using frameworks like Nest.js and Next.js.
+-  Full Stack Developer, using frameworks like Nest.js and Next.js.
   
-- 📚 Currently expanding my knowledge into architecture & scalability patterns.
-- 💪🏼 My future aspirations include learning new technologies | Never stop innovating.
-- 🌱  I am passionate about open-source contributions and seeking impact.   
+-  Currently expanding my knowledge into architecture & scalability patterns.
+-   I am passionate about open-source contributions and seeking impact.   
 
   
 
@@ -133,7 +132,7 @@
 
 
 <div align="center"> 
-<a href="https://github.com/MAES-Pyramids/"><img src="https://github-profile-trophy.vercel.app/?username=MAES-Pyramids&theme=monokai" alt="Abo El-Seoud Trophies" /></a>
+<!-- <a href="https://github.com/MAES-Pyramids/"><img src="https://github-profile-trophy.vercel.app/?username=MAES-Pyramids&theme=monokai" alt="Abo El-Seoud Trophies" /></a> -->
     
 <a href="https://github.com/MAES-Pyramids/">
       <img align="center" width="445px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAES-pyramids&theme=monokai" />

@@ -71,13 +71,11 @@
   
 ---
 
-<br/>
-
 <h2 align="center">Github Statistics 📈</h2>
 
 <div align="center">
   <!-- Contribution Graph -->
-  <div style="margin: 20px 0;">
+  <!-- <div style="margin: 20px 0;">
     <a href="https://github.com/Abo-ElSeoud/">
       <img 
         align="center" 
@@ -86,7 +84,7 @@
         alt="Contribution Graph" 
       />
     </a>  
-  </div>
+  </div> -->
 
   <!-- Streak Stats and Top Languages -->
   <p align="center"  >
@@ -95,14 +93,14 @@
     </a>
  
   <!-- General Stats -->
-  <a href="https://github.com/Abo-ElSeoud/">
-    <img 
+  <!--  <a href="https://github.com/Abo-ElSeoud/">
+   <img 
       align="center" 
       width="500px" 
       src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abo-ElSeoud&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&line_height=22" 
       alt="General Stats" 
-    />
-  </a>
+    /> 
+  </a> -->
       
   </p>
 
@@ -137,12 +135,13 @@
 <div align="center"> 
 <!-- <a href="https://github.com/Abo-ElSeoud/"><img src="https://github-profile-trophy.vercel.app/?username=Abo-ElSeoud&theme=monokai" alt="Abo El-Seoud Trophies" /></a> -->
     
-<a href="https://github.com/Abo-ElSeoud/">
+   <a href="https://github.com/Abo-ElSeoud/">
       <img align="center" width="445px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abo-ElSeoud&theme=monokai" />
-    </a>
-<a href="https://github.com/Abo-ElSeoud/">
+    </a>  
+    
+<!-- <a href="https://github.com/Abo-ElSeoud/">
       <img align="center" width="215px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abo-ElSeoud&theme=monokai" />
-    </a>
+    </a>  -->
     
 </div> 
 
